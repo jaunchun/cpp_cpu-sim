@@ -152,6 +152,10 @@ be started from an IDE or from another folder.
 cmake -S . -B build
 cmake --build build
 ```
+### Usage of ai
+
+Ai was used for most of the comments and for some code,
+but most of it i done myself.
 
 The generated executable is `build/pc_sim` on Linux/macOS or
 `build/Debug/pc_sim.exe` with a Visual Studio generator on Windows.
